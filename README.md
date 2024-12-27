@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Vibhav Shiras<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 
+<h3 align="center">Software Engineer at Couchbase</h3>
 <h3 align="center">CSE Undergrad at PES University, Bengaluru, India.</h3>
-
-- 🌱 I’m currently doing Full Stack Developement, machine learning and cloud computing projects.
 
 ### ☎️ Contact me 
 
